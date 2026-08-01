@@ -122,3 +122,4 @@ real browser window — I can't generate these for you.
 See `report_template.md` for a scaffold with guidance per question — fill
 it in using your real `outputs/test_results.csv` numbers, not placeholders.
 # fingerprint-qc
+# fingerprint-qc
